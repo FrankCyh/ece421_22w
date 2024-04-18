@@ -1,0 +1,4 @@
+Repository for ECE421 taken 2022 Winter Semester at University of Toronto
+
+a2, a3 get full marks. a1 get 39/40, comments on a1:
+    1.3. must mention based on exactly which accuracy should the hyperparameter be chosen: validation => -0.5 1.4. & 2.4 => again the "validation" performance must be your point of reference in the selection process => -0.5
